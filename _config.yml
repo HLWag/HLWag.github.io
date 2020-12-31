@@ -3,9 +3,9 @@ logo: "/images/HWagner_CircleHeadshot.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Master of City Planning Candidate at the University of Pennsylvania <br>
   Climate Adaptation & Resilience<br>
-  (she/her)<br>
+  (she/her)<br><br>
    
-  <a href="https://www.linkedin.com/in/hannah-wagner-077288a7/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/hannah-wagner-077288a7/">View My LinkedIn Profile</a>
   
 theme: jekyll-theme-minimal
 
