@@ -37,7 +37,7 @@ See full description of analysis and results [here](https://hlwag.github.io/MUSA
 ---
 #### [Point Breeze Neighborhood Extreme Heat Vulnerability](https://github.com/HLWag/Point-Breeze_Heat-Vulnerability)
 This analysis seeks to understand how recent demographic changes in the Point Breeze Neighborhood of Philadelphia may affect the community's resilience to extreme heat events.
-<img src="images/PBHeatimage.png?raw=true"/>
+<img src="images/PbHeatimage.png?raw=true"/>
 
 
 ---
