@@ -11,12 +11,14 @@ Zillow’s housing market predictions, known as Zestimates, are valued for their
 See full description of analysis and results [here](https://hlwag.github.io/ParkWagner_MidtermMUSA508/ParkWagner_HomePricePrediction_Midterm.html).
 <img src="images/MiamiHomePrice.png?raw=true"/>
 
+
 ---
 #### [Transit Oriented Development in Chicago](https://github.com/HLWag/MUSA508_TOD-Assignment)
 This analysis aims to determine whether households in Chicago, Illinois value transit-rich neighborhoods compared to other neighborhoods. Known as Transit Oriented Development (TOD), this type of urban development aims to maximize the amount of housing and amenities within walking distance of transit like bus stops, subways stations, and rail stations. Understanding whether renters and home buyers are willing to pay more to reside near transit can help cities manage zoning codes. If residents in Chicago prioritize living in transit-rich areas (i.e., areas within a half-mile of Chicago Transit Authority [CTA] stations) at the expense of housing cost, then the City may wish to update zoning codes to enable increased density around transit.
 
 See full description of analysis and results [here](https://hlwag.github.io/MUSA508_TOD-Assignment/Hannah-Wagner_TOD-Assignment_MUSA508.html).
 <img src="images/CTARent.png?raw=true"/>
+
 
 ---
 #### [Dispacement Risk Tracker](https://ashabazil.github.io/DisplacementRiskTracker_Wagner_Bazil_12.14.2020.html)
@@ -30,5 +32,12 @@ This analysis uses a binary logistic regression to estimate whether eligible hom
 
 See full description of analysis and results [here](https://hlwag.github.io/MUSA508_HousingCredit/Hannah-Wagner_MUSA-508_Housing-Credit-Assignment.html).
 <img src="images/HousingCredit.png?raw=true"/>
+
+
+---
+#### [Point Breeze Neighborhood Extreme Heat Vulnerability](https://github.com/HLWag/Point-Breeze_Heat-Vulnerability)
+This analysis seeks to understand how recent demographic changes in the Point Breeze Neighborhood of Philadelphia may affect the community's resilience to extreme heat events.
+<img src="images/PBHeatimage.png?raw=true"/>
+
 
 ---
