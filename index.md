@@ -8,7 +8,7 @@ Below are examples of my work completed as part of my Master of City Planning de
 #### [Predicting Home Prices in Miami](https://github.com/HLWag/ParkWagner_MidtermMUSA508)
 Zillow’s housing market predictions, known as Zestimates, are valued for their nationwide coverage and general accuracy. For example, the nationwide median error for off-market homes is 7.5% and for on-market homes is 1.9%. However, when considering a specific city or region, the accuracy of the Zestimates could be improved by including locally-specific data in the prediction process. This analysis aims to build an accurate and generalizable hedonic model that predicts home prices for Miami by deconstructing overall home price into the value of constituent parts.
 
-See full description of analysis and results.
+See full description of analysis and results [here](https://hlwag.github.io/ParkWagner_MidtermMUSA508/ParkWagner_HomePricePrediction_Midterm.html).
 <img src="images/MiamiHomePrice.png?raw=true"/>
 
 ---
